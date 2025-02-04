@@ -1,0 +1,3 @@
+1st page == syllabus
+2nd page == outcomes
+3rd     == libraries details (numpy, pandas, matplotlib, seaborn, sklearn)

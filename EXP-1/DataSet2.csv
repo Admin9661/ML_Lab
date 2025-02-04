@@ -1,0 +1,7 @@
+Breathing difficulty,Cough,Fever,Covid
+Yes,Yes,Yes,Positive
+Yes,Yes,No,Positive
+Yes,No,Yes,Negative
+No,Yes,Yes,Negative
+No,No,Yes,Negative
+No,No,No,Negative
